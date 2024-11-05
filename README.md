@@ -1,11 +1,15 @@
 # c-lista-telefonica
 
-<h1>Funcionalidades</h1>
-<li>
-  <ul>Inserir um novo contato (nome, número de telefone, e-mail)</ul>
-  <ul>Mostrar todos os contatos</ul>
- <ul>Procurar contatos</ul>
- <ul>Modificar dados de um contato</ul>
- <ul>Excluir um contato</ul>
- <ul>Mostrar todas as informações dos contatos</ul>
-</li>
+## ⚙️ Funcionalidades
+- Incluir um novo contato (nome, telefone, e-mail)
+- Mostrar todos os contatos cadastrados
+- Procurar por contatos específicos
+- Atualizar os dados de um contato
+- Excluir um contato da lista
+- Exibir os detalhes completos de cada contato
+
+## ✏️ Principais Tópicos Estudados
+- Ponteiros de memória
+- Gerenciamento dinâmico de memória
+- Manipulação de arquivos
+- Conceitos de recursão
